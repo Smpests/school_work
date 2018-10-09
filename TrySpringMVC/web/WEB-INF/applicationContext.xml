@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
+    <bean id="ds" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+        <property name="url"
+                  value="jdbc:mysql://localhost:3306/lqs?useUnicode=true&amp;characterEncoding=UTF-8" />
+        <property name="username" value="root" />
+        <property name="password" value="187233315142" />
+        <property name="driverClassName" value="com.mysql.jdbc.Driver" />
+    </bean>
+    <!--!&#45;&#45; 2). Mybatis 的SqlSession 的工厂: SqlSessionFactoryBean &ndash;&gt;-->
+    <!-- dataSource:引用数据源 -->
+    <!-- typeAliasesPackage:指定实体类的包名,自动将实体类的简单类型映射成别名 -->
+    <!-- ctrl + t是查看某个接口的实现类 -->
+    <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+        <property name="dataSource" ref="ds" />
+        <property name="typeAliasesPackage" value="com.qingsong.book.model" />
+    </bean>
+    <!-- 3). mybatis 自动扫描加载Sql 映射文件/接口 : MapperScannerConfigurer -->
+    <!-- basePackage 指定sql映射文件/接口所在的包(自动扫描) -->
+    <!-- 这种方式就是需要将接口以及映射文件都放到同一个目录下,而如果想分离开,也可以采用SqlSessionFactory中的注释的那种方式,
+        也就是加载一个配置文件,通过配置文件的方式管理映射文件以及接口 -->
+    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+        <property name="basePackage" value="com.qingsong.book.mapper" />
+        <property name="sqlSessionFactory" ref="sqlSessionFactory" />
+    </bean>
+    <bean id="txManager"
+          class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <property name="dataSource" ref="ds" />
+    </bean>
+
+    <!-- 6). 使用声明式事务 -->
+    <!-- 定义一个事务管理还不够,还需要将他声明出来,才可以使用 -->
+    <!-- 也可以使用面向切面,将固定的一些方法使用这个事务,而别的方法使用别的事务方式 -->
+    <tx:annotation-driven transaction-manager="txManager" />
+
+    <!-- 7-1).定义持久化Service服务层 -->
+    <bean id="saveDataImpl" class="com.qingsong.book.service.SaveDataImpl"/>
+
+    <!-- 7-2).定义查询Service服务层 -->
+    <bean id="findServiceImpl" class="com.qingsong.book.service.FindServiceImpl"/>
+
+    <!-- 8).定义AOP配置 -->
+    <!-- proxy-target-class这个参数如果为true,则基于类的代理,通过CGLib来进行代理 -->
+    <!-- proxy-target-class这个参数如果为false或者压根没有写这个参数,则通过JDK接口来进行代理 -->
+    <aop:config proxy-target-class="true">
+        <!-- 切点:利用切点函数表达式来定位到连接点 -->
+        <aop:pointcut id="selectPointcut"
+                      expression="target(com.qingsong.book.service.FindServiceImpl) and execution(* *(..))" />
+        <!-- 切面:由通知和切点组成的切面 -->
+        <aop:aspect id="selectAdvisor" ref="selectAdvice">
+            <!-- 将'检查系统'这个增强织入 -->
+            <aop:before method="checkSystem" pointcut-ref="selectPointcut" />
+            <!-- 将'清理系统'这个增强织入 -->
+            <aop:after method="cleanSystem" pointcut-ref="selectPointcut" />
+            <!--&lt;!&ndash; 在切点函数表达式找到的业务方法执行之后开始进行织入动作, 并将业务方法返回的参数绑定到'加密'增强方法中去 &ndash;&gt;-->
+            <!--<aop:after-returning method="encryptMessage"-->
+                                 <!--pointcut-ref="selectPointcut" returning="bindParam" />-->
+            <!-- 将'统计业务方法时间'这个增强织入 -->
+            <aop:around method="recordMethodTime" pointcut-ref="selectPointcut" />
+            <!-- 在切点函数表达式找到的业务方法执行之后开始进行织入动作, 并将业务方法返回的参数绑定到'统计条数'增强方法中去 -->
+            <aop:after-returning method="countNumber"
+                                 pointcut-ref="selectPointcut" returning="bindParam" />
+        </aop:aspect>
+    </aop:config>
+
+    <!-- 9).通知 -->
+    <bean id="selectAdvice" class="com.qingsong.book.aop.SelectAdvice" />
+    <!-- 10.初始化Spring时启动的线程 -->
+
+    <bean id="jobMap" class="org.springframework.beans.factory.config.MapFactoryBean">
+        <property name="sourceMap">
+            <map>
+                <entry key="memoryMonitorThread" value-ref="memoryMonitorThread" />
+            </map>
+        </property>
+    </bean>
+
+    <!-- 11.内存监控线程 -->
+    <bean id="memoryMonitorThread" class="com.qingsong.book.thread.MemThread">
+        <property name="name" value="内存监控线程" />
+    </bean>
+</beans>

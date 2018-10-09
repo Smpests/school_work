@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- namespace必须要和Mapper接口名字一致 -->
+<!-- id必须要和Mapper中的方法名一致 -->
+<mapper namespace="com.qingsong.book.mapper.BookMapper">
+    <cache eviction="FIFO" flushInterval="10800000" size="512"
+           readOnly="true" />
+
+    <insert id="addMemory" parameterType="MemoryModel">
+        insert into
+        memory_record
+        (max_memory,total_memory,free_memory)
+        values
+        (#{maxMemory},#{totalMemory},#{freeMemory} )
+    </insert>
+
+    <insert id="addBook" parameterType="com.qingsong.book.model.BookModel">
+        insert into
+        library
+        (name,grounding_date,price,allowance,author,press,book_type)
+        values
+        (#{name},#{grounding_date},#{price},#{allowance},#{author},#{press},#{book_type} )
+    </insert>
+    <delete id="delBookById" parameterType="int">
+        delete from
+        library
+        where id = #{id}
+    </delete>
+
+    <update id="updateBookPrice">
+        update
+        library set
+        price=#{price}
+        where
+        id=#{id}
+    </update>
+
+    <select id="findBookById" parameterType="int"
+            resultType="com.qingsong.book.model.BookModel">
+        select
+        * from
+        library
+        where id = #{id}
+    </select>
+
+    <select id="getAllBook" resultType="com.qingsong.book.model.BookModel">
+        select * from
+        library
+    </select>
+
+    <select id="findBookByType" parameterType="String">
+        select
+        * FROM
+        library
+        WHERE book_type=#{book_type}
+    </select>
+</mapper>

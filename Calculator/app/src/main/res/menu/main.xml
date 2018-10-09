@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/jinzhi_item"
+        android:title="进制转换"/>
+    <item
+        android:id="@+id/trans_item"
+        android:title="单位转换"/>
+    <item
+        android:id="@+id/function_item"
+        android:title="三角函数"/>
+
+</menu>

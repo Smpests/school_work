@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="spring-aspects-4.0.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-aspects-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections4-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-aop-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jboss-logging-3.1.1.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-beans-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.springframework.test-3.1.0.M2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-expression-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-jdbc-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-tx-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-web-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-webmvc-4.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-webmvc-4.0.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

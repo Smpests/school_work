@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+    >
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="数据存储"
+    android:textSize="25dp"
+    android:textColor="#3123ef"
+    android:gravity="center"/>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="10dp"
+    android:paddingBottom="8dp">
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Bit"
+        android:gravity="center"
+        android:textSize="18dp"/>
+    <EditText
+        android:id="@+id/editText_bit"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"/>
+    <TextView
+        android:id="@+id/textView_bit"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"/>
+    <Button
+        android:id="@+id/button_bit"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/button_shape"
+        android:text="计算"
+        android:textSize="20dp"/>
+</LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="10dp"
+    android:paddingBottom="8dp">
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Byte"
+        android:gravity="center"
+        android:textSize="18dp"/>
+    <EditText
+        android:id="@+id/editText_byte"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"/>
+    <TextView
+        android:id="@+id/textView_byte"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"/>
+    <Button
+        android:id="@+id/button_byte"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/button_shape"
+        android:text="计算"
+        android:textSize="20dp"/>
+</LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="10dp"
+    android:paddingBottom="8dp">
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="KB"
+        android:gravity="center"
+        android:textSize="18dp"/>
+    <EditText
+        android:id="@+id/editText_kb"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"/>
+    <TextView
+        android:id="@+id/textView_kb"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"/>
+    <Button
+        android:id="@+id/button_kb"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/button_shape"
+        android:text="计算"
+        android:textSize="20dp"/>
+</LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="10dp"
+    android:paddingBottom="8dp">
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="MB"
+        android:gravity="center"
+        android:textSize="18dp"/>
+    <EditText
+        android:id="@+id/editText_mb"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"/>
+    <TextView
+        android:id="@+id/textView_mb"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"/>
+    <Button
+        android:id="@+id/button_mb"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/button_shape"
+        android:text="计算"
+        android:textSize="20dp"/>
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingBottom="8dp">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="GB"
+            android:gravity="center"
+            android:textSize="18dp"/>
+        <EditText
+            android:id="@+id/editText_gb"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"/>
+        <TextView
+            android:id="@+id/textView_gb"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"/>
+        <Button
+            android:id="@+id/button_gb"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/button_shape"
+            android:text="计算"
+            android:textSize="20dp"/>
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jstl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aspectjweaver-1.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mybatis-3.2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mybatis-spring-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysqldriver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/mybatis-spring-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

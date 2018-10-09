@@ -1,0 +1,3314 @@
+[INFO] 2018-04-20 07:58:55 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 07:58:55 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 08:09:37 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 08:09:37 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 08:19:09 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 08:19:09 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 08:27:33 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 08:27:33 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 08:27:43 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 08:27:43 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 08:27:53 [com.qingsong.book.controller.MyController] 
+删除2
+[INFO] 2018-04-20 08:27:54 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 08:27:54 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 08:28:07 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 08:28:07 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 08:33:13 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 08:33:13 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 08:38:50 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 08:38:50 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 08:40:08 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 08:40:08 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 08:41:11 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 08:41:11 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 08:44:12 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 08:44:12 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 08:49:38 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 08:49:38 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 08:49:42 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 08:49:42 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 08:49:49 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 08:49:49 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 09:12:00 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 09:12:05 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 09:12:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 09:12:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 09:12:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 09:53:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 09:53:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 09:53:19 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 09:53:24 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 09:53:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 09:53:30 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 09:53:30 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 09:53:30 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 09:53:30 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 09:53:30 [com.qingsong.book.aop.SelectAdvice] 
+AfterReturn:本次查询出3条学生记录
+[INFO] 2018-04-20 09:53:30 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.getAllBook执行花费了68毫秒
+[INFO] 2018-04-20 09:53:30 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 09:53:30 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 09:53:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 09:53:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 09:53:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 09:53:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:39:00 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:39:05 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:39:10 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:39:15 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 10:39:15 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 10:39:15 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 10:39:15 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 10:39:15 [com.qingsong.book.aop.SelectAdvice] 
+AfterReturn:本次查询出3条书籍记录
+[INFO] 2018-04-20 10:39:15 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.getAllBook执行花费了52毫秒
+[INFO] 2018-04-20 10:39:15 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 10:39:15 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 10:39:15 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:39:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:39:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:40:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:40:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:40:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:40:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:40:18 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 10:40:18 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 10:40:18 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 10:40:18 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 10:40:18 [com.qingsong.book.aop.SelectAdvice] 
+AfterReturn:本次查询出3条书籍记录
+[INFO] 2018-04-20 10:40:18 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.getAllBook执行花费了52毫秒
+[INFO] 2018-04-20 10:40:18 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 10:40:18 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 10:40:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:40:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:40:31 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:40:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:40:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:40:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:40:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:40:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:41:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:41:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:41:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:41:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:41:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:41:28 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 10:41:28 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 10:41:28 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 10:41:28 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 10:41:28 [com.qingsong.book.aop.SelectAdvice] 
+AfterReturn:本次查询出4条书籍记录
+[INFO] 2018-04-20 10:41:28 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.getAllBook执行花费了24毫秒
+[INFO] 2018-04-20 10:41:28 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 10:41:28 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 10:41:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:41:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:41:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:41:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:41:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:41:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:41:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:42:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:42:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:42:15 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:42:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:42:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:42:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:42:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:42:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:42:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:42:49 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 10:42:49 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 10:42:49 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 10:42:49 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 10:42:49 [com.qingsong.book.aop.SelectAdvice] 
+AfterReturn:本次查询出5条书籍记录
+[INFO] 2018-04-20 10:42:49 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.getAllBook执行花费了8毫秒
+[INFO] 2018-04-20 10:42:49 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 10:42:49 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 10:42:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:42:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:43:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:43:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:43:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:43:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:43:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:43:27 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:43:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:43:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:43:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:43:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:43:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:43:55 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 10:43:55 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 10:43:55 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 10:43:55 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 10:43:55 [com.qingsong.book.aop.SelectAdvice] 
+AfterReturn:本次查询出6条书籍记录
+[INFO] 2018-04-20 10:43:55 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.getAllBook执行花费了8毫秒
+[INFO] 2018-04-20 10:43:55 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 10:43:55 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 10:43:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:44:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:44:07 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:44:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:44:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:44:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:44:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:44:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:44:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:44:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:44:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:44:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:44:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:45:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:45:08 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 10:45:08 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 10:45:08 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 10:45:08 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 10:45:08 [com.qingsong.book.aop.SelectAdvice] 
+AfterReturn:本次查询出7条书籍记录
+[INFO] 2018-04-20 10:45:08 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.getAllBook执行花费了20毫秒
+[INFO] 2018-04-20 10:45:08 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 10:45:08 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 10:45:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:45:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:45:19 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:45:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:45:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:45:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:45:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:45:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:45:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:45:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:46:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:46:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:46:06 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 10:46:06 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 10:46:06 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 10:46:06 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 10:46:06 [com.qingsong.book.aop.SelectAdvice] 
+AfterReturn:本次查询出8条书籍记录
+[INFO] 2018-04-20 10:46:06 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.getAllBook执行花费了20毫秒
+[INFO] 2018-04-20 10:46:06 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 10:46:06 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 10:46:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:46:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:46:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:46:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:46:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:46:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:46:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:46:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:46:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:46:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:47:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:47:07 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:47:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:47:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:47:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:47:26 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 10:47:26 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 10:47:26 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 10:47:26 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 10:47:26 [com.qingsong.book.aop.SelectAdvice] 
+AfterReturn:本次查询出9条书籍记录
+[INFO] 2018-04-20 10:47:26 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.getAllBook执行花费了20毫秒
+[INFO] 2018-04-20 10:47:26 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 10:47:26 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 10:47:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:47:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:47:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:47:43 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:47:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:47:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:47:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:48:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:48:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:48:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:48:19 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:48:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:48:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:48:34 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 10:48:34 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 10:48:34 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 10:48:34 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 10:48:34 [com.qingsong.book.aop.SelectAdvice] 
+AfterReturn:本次查询出10条书籍记录
+[INFO] 2018-04-20 10:48:34 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.getAllBook执行花费了8毫秒
+[INFO] 2018-04-20 10:48:34 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 10:48:34 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 10:48:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:48:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:48:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:48:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:48:55 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:49:00 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:49:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:49:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:49:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:49:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:49:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:49:31 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:49:36 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:49:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:49:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:49:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:49:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:50:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:50:07 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:50:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:50:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:50:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:50:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:50:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:50:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:50:41 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 10:50:41 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 10:50:41 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 10:50:41 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 10:50:41 [com.qingsong.book.aop.SelectAdvice] 
+AfterReturn:本次查询出11条书籍记录
+[INFO] 2018-04-20 10:50:41 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.getAllBook执行花费了20毫秒
+[INFO] 2018-04-20 10:50:41 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 10:50:41 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 10:50:43 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:50:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:50:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:50:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:51:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:51:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:51:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:51:19 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:51:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:51:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:51:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:51:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:51:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:51:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:51:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:52:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:52:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:52:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:52:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:52:20 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 10:52:20 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 10:52:20 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 10:52:20 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 10:52:20 [com.qingsong.book.aop.SelectAdvice] 
+AfterReturn:本次查询出12条书籍记录
+[INFO] 2018-04-20 10:52:20 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.getAllBook执行花费了12毫秒
+[INFO] 2018-04-20 10:52:20 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 10:52:20 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 10:52:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:52:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:52:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:52:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:52:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:52:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:52:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:52:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:53:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:53:07 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:53:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:53:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:53:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:53:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:53:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:53:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:53:43 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:53:48 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:53:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:53:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:54:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:54:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:54:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:54:19 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:54:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:54:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:54:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:54:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:54:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:54:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:54:55 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:55:00 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:55:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:55:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:55:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:55:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:55:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:55:31 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:55:36 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:55:38 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 10:55:38 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 10:55:38 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.findBookById执行花费了8毫秒
+[INFO] 2018-04-20 10:55:38 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 10:55:38 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 10:55:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:55:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:55:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:55:56 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 10:55:56 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 10:55:56 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.findBookById执行花费了8毫秒
+[INFO] 2018-04-20 10:55:56 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 10:55:56 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 10:55:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:56:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:56:07 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:56:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:56:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:56:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:56:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:56:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:56:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:56:43 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:56:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:56:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:56:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:57:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:57:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:57:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:57:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:57:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:57:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:57:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:57:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:57:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:57:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:57:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:58:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:58:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:58:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:58:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:58:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:58:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:58:31 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:58:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:58:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:58:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:58:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:58:57 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 10:58:57 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 10:58:57 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.findBookById执行花费了4毫秒
+[INFO] 2018-04-20 10:58:57 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 10:58:57 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 10:58:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:59:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:59:07 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:59:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:59:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:59:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:59:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:59:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:59:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:59:43 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:59:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:59:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 10:59:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:00:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:00:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:00:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:00:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:00:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:00:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:00:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:00:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:00:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:00:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:00:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:01:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:01:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:01:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:01:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:01:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:01:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:01:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:01:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:01:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:01:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:01:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:01:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:02:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:02:07 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:02:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:02:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:02:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:02:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:02:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:02:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:02:43 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:02:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:02:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:02:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:03:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:03:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:03:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:03:19 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:03:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:03:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:03:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:03:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:03:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:03:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:03:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:04:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:04:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:04:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:04:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:04:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:04:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:04:31 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:04:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:04:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:04:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:04:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:04:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:05:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:05:07 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:05:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:05:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:05:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:05:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:05:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:05:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:05:43 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:05:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:05:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:05:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:06:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:06:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:06:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:06:19 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:06:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:06:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:06:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:06:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:06:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:06:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:06:55 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:07:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:07:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:07:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:07:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:07:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:07:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:07:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:07:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:07:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:07:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:07:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:07:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:08:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:08:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:08:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:08:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:08:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:08:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:08:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:08:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:08:43 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:08:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:08:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:08:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:09:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:09:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:09:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:09:19 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:09:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:09:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:09:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:09:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:09:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:09:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:09:55 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:10:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:10:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:10:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:10:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:10:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:10:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:10:31 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:10:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:10:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:10:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:10:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:10:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:11:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:11:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:11:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:11:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:11:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:11:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:11:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:11:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:11:43 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:11:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:11:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:11:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:12:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:12:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:12:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:12:19 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:12:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:12:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:12:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:12:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:12:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:12:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:12:55 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:13:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:13:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:13:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:13:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:13:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:13:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:13:31 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:13:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:13:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:13:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:13:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:13:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:14:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:14:07 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:14:12 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:14:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:14:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:14:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:14:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:14:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:14:43 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:14:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:14:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:14:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:15:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:15:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:15:15 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:15:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:15:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:15:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:15:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:15:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:15:46 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:15:51 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:15:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:16:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:16:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:16:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:16:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:16:22 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:16:27 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:16:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:16:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:16:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:16:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:16:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:16:58 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:17:03 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:17:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:17:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:17:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:17:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:17:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:17:34 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:17:39 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:17:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:17:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:17:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:17:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:18:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:18:10 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:18:15 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:18:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:18:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:18:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:18:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:18:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:18:46 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:18:51 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:18:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:19:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:19:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:19:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:19:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:19:22 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:19:27 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:19:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:19:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:19:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:19:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:19:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:19:58 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:20:03 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:20:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:20:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:20:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:20:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:20:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:20:34 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:20:39 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:20:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:20:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:20:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:20:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:21:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:21:10 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:21:15 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:21:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:21:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:21:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:21:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:21:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:21:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:21:51 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:21:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:22:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:22:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:22:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:22:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:22:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:22:27 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:22:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:22:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:22:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:22:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:22:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:22:55 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 11:22:55 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 11:22:55 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 11:22:55 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 11:22:55 [com.qingsong.book.aop.SelectAdvice] 
+AfterReturn:本次查询出12条书籍记录
+[INFO] 2018-04-20 11:22:55 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.getAllBook执行花费了4毫秒
+[INFO] 2018-04-20 11:22:55 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 11:22:55 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 11:22:58 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:23:03 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:23:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:23:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:23:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:23:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:23:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:23:34 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:23:39 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:23:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:23:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:23:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:23:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:24:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:24:10 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:24:15 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:24:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:24:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:24:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:24:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:24:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:24:46 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:24:51 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:24:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:25:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:25:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:25:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:25:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:25:22 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:25:27 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:25:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:25:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:25:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:25:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:25:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:25:58 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:26:03 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:26:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:26:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:26:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:26:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:26:29 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:26:34 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:26:39 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:26:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:26:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:26:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:26:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:27:05 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:27:10 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:27:15 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:27:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:27:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:27:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:27:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:27:41 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:27:46 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:27:51 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:27:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:28:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:28:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:28:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:28:17 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:28:22 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:28:27 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:28:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:28:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:28:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:28:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:28:53 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:28:58 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:29:03 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:29:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:29:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:29:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:29:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:29:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:29:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:29:39 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:29:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:29:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:29:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:29:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:30:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:30:10 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:30:15 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:30:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:30:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:30:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:30:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:30:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:30:46 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:30:51 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:30:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:31:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:31:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:31:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:31:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:31:22 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:31:27 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:31:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:31:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:31:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:31:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:31:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:31:58 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:32:03 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:32:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:32:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:32:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:32:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:32:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:32:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:32:39 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:32:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:32:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:32:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:32:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:33:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:33:10 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:33:15 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:33:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:33:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:33:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:33:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:33:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:33:46 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:33:51 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:33:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:34:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:34:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:34:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:34:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:34:22 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:34:27 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:34:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:34:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:34:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:34:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:34:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:34:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:35:03 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:35:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:35:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:35:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:35:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:35:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:35:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:35:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:35:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:35:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:35:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:35:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:36:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:36:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:36:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:36:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:36:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:36:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:36:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:36:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:36:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:36:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:36:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:37:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:37:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:37:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:37:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:37:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:37:27 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:37:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:37:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:37:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:37:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:37:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:37:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:38:03 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:38:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:38:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:38:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:38:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:38:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:38:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:38:39 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:38:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:38:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:38:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:38:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:39:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:39:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:39:15 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:39:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:39:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:39:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:39:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:39:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:39:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:39:51 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:39:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:40:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:40:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:40:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:40:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:40:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:40:27 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:40:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:40:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:40:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:40:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:40:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:40:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:41:03 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:41:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:41:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:41:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:41:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:41:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:41:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:41:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:41:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:41:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:41:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:41:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:42:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:42:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:42:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:42:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:42:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:42:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:42:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:42:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:42:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:42:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:42:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:43:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:43:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:43:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:43:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:43:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:43:27 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:43:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:43:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:43:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:43:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:43:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:43:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:44:03 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:44:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:44:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:44:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:44:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:44:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:44:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:44:39 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:44:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:44:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:44:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:44:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:45:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:45:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:45:15 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:45:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:45:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:45:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:45:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:45:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:45:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:45:51 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:45:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:46:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:46:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:46:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:46:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:46:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:46:27 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:46:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:46:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:46:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:46:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:46:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:46:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:47:03 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:47:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:47:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:47:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:47:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:47:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:47:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:47:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:47:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:47:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:47:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:47:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:48:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:48:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:48:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:48:19 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:48:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:48:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:48:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:48:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:48:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:48:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:48:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:49:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:49:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:49:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:49:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:49:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:49:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:49:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:49:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:49:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:49:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:49:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:49:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:50:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:50:07 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:50:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:50:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:50:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:50:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:50:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:50:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:50:43 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:50:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:50:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:50:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:51:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:51:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:51:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:51:19 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:51:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:51:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:51:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:51:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:51:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:51:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:51:55 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:52:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:52:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:52:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:52:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:52:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:52:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:52:31 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:52:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:52:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:52:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:52:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:52:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:53:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:53:07 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:53:12 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:53:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:53:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:53:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:53:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:53:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:53:43 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:53:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:53:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:53:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:54:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:54:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:54:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:54:19 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:54:24 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:54:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:54:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:54:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:54:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:54:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:54:55 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:55:00 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:55:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:55:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:55:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:55:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:55:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:55:31 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:55:36 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:55:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:55:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:55:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:55:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:56:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:56:07 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:56:12 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:56:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:56:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:56:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:56:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:56:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:56:43 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:56:48 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:56:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:56:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:57:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:57:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:57:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:57:19 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:57:24 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:57:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:57:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:57:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:57:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:57:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:57:55 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:58:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:58:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:58:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:58:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:58:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:58:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:58:31 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:58:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:58:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:58:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:58:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:58:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:59:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:59:07 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:59:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:59:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:59:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:59:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:59:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:59:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:59:43 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:59:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:59:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 11:59:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:00:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:00:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:00:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:00:19 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:00:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:00:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:00:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:00:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:00:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:00:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:00:55 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:01:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:01:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:01:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:01:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:01:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:01:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:01:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:01:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:01:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:01:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:01:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:01:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:02:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:02:07 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:02:12 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:02:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:02:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:02:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:02:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:02:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:02:43 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:02:48 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:02:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:02:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:03:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:03:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:03:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:03:19 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:03:24 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:03:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:03:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:03:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:03:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:03:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:03:55 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:04:00 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:04:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:04:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:04:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:04:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:04:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:04:31 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:04:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:04:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:04:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:04:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:04:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:05:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:05:07 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:05:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:05:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:05:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:05:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:05:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:05:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:05:43 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:05:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:05:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:05:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:06:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:06:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:06:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:06:19 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:06:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:06:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:06:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:06:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:06:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:06:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:06:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:07:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:07:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:07:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:07:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:07:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:07:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:07:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:07:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:07:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:07:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:07:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:07:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:08:03 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:08:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:08:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:08:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:08:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:08:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:08:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:08:39 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:08:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:08:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:08:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:08:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:09:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:09:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:09:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:09:19 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:09:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:09:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:09:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:09:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:09:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:09:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:09:55 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:10:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:10:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:10:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:10:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:10:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:10:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:10:31 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:10:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:10:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:10:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:10:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:10:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:11:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:11:07 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:11:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:11:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:11:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:11:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:11:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:11:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:11:43 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:11:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:11:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:11:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:12:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:12:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:12:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:12:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:12:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:12:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:12:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:12:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:12:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:12:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:12:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:13:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:13:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:13:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:13:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:13:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:13:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:13:31 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:13:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:13:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:13:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:13:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:13:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:14:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:14:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:14:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:14:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:14:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:14:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:14:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:14:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:14:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:14:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:14:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:14:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:15:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:15:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:15:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:15:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:15:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:15:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:15:36 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:57:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:57:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:57:19 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:57:24 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:57:29 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:57:34 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:57:39 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:57:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:57:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:57:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:57:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:58:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:58:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:58:15 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:58:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:58:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:58:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:58:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:58:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:58:46 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:58:51 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:58:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:59:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:59:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:59:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:59:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:59:22 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:59:27 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:59:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:59:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:59:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:59:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:59:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 12:59:58 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:00:03 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:00:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:00:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:00:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:00:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:00:29 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:00:34 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:00:39 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:00:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:00:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:00:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:00:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:01:05 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:01:10 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:01:15 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:01:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:01:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:01:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:01:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:01:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:01:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:01:51 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:01:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:02:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:02:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:02:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:02:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:02:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:02:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:02:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:02:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:02:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:02:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:02:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:02:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:03:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:03:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:03:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:03:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:03:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:03:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:03:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:03:39 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:03:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:03:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:03:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:03:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:04:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:04:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:04:15 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:04:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:04:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:04:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:04:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:04:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:04:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:04:51 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:04:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:05:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:05:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:05:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:05:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:05:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:05:27 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:05:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:05:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:05:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:05:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:05:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:05:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:06:03 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:06:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:06:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:06:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:06:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:06:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:06:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:06:39 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:06:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:06:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:06:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:06:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:07:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:07:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:07:15 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:07:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:07:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:07:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:07:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:07:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:07:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:07:51 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:07:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:08:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:08:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:08:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:08:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:08:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:08:27 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:08:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:08:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:08:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:08:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:08:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:08:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:09:03 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:09:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:09:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:09:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:09:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:09:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:09:34 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:09:39 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:09:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:09:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:09:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:09:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:10:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:10:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:10:15 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:10:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:10:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:10:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:10:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:10:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:10:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:10:51 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:10:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:11:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:11:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:11:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:11:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:11:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:11:27 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:11:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:11:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:11:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:11:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:11:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:11:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:12:03 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:12:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:12:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:12:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:12:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:12:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:12:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:12:39 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:12:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:12:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:12:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:12:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:13:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:13:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:13:15 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:13:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:13:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:13:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:13:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:13:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:13:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:13:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:13:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:14:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:14:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:14:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:14:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:14:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:14:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:14:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:14:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:14:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:14:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:14:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:14:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:15:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:15:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:15:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:15:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:15:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:15:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:15:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:15:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:15:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:15:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:15:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:15:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:16:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:16:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:16:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:16:19 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:16:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:16:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:16:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:16:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:16:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:16:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:16:55 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:17:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:17:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:17:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:17:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:17:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:17:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:17:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:17:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:17:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:17:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:17:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:17:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:18:02 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:18:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:18:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:18:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:18:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:18:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:18:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:18:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:18:43 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:18:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:18:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:18:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:19:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:19:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:19:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:19:19 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:19:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:19:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:19:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:19:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:19:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:19:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 13:19:55 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:07:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:08:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:08:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:08:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:08:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:08:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:08:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:08:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:08:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:08:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:08:51 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:08:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:09:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:09:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:09:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:09:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:09:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:09:27 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:09:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:09:34 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 14:09:34 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 14:09:34 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 14:09:34 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 14:09:34 [com.qingsong.book.aop.SelectAdvice] 
+AfterReturn:本次查询出12条书籍记录
+[INFO] 2018-04-20 14:09:34 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.getAllBook执行花费了51毫秒
+[INFO] 2018-04-20 14:09:34 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 14:09:34 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 14:09:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:09:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:09:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:09:52 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:09:57 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:10:03 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:10:05 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 14:10:05 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 14:10:05 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 14:10:05 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 14:10:05 [com.qingsong.book.aop.SelectAdvice] 
+AfterReturn:本次查询出13条书籍记录
+[INFO] 2018-04-20 14:10:05 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.getAllBook执行花费了29毫秒
+[INFO] 2018-04-20 14:10:05 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 14:10:05 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 14:10:08 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:10:13 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:10:14 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 14:10:14 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 14:10:14 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.findBookById执行花费了7毫秒
+[INFO] 2018-04-20 14:10:14 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 14:10:14 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 14:10:18 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:10:20 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 14:10:20 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 14:10:20 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 14:10:20 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 14:10:20 [com.qingsong.book.aop.SelectAdvice] 
+AfterReturn:本次查询出13条书籍记录
+[INFO] 2018-04-20 14:10:20 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.getAllBook执行花费了8毫秒
+[INFO] 2018-04-20 14:10:20 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 14:10:20 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 14:10:23 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:10:26 [com.qingsong.book.controller.MyController] 
+删除14
+[INFO] 2018-04-20 14:10:26 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 14:10:26 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 14:10:26 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 14:10:26 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 14:10:26 [com.qingsong.book.aop.SelectAdvice] 
+AfterReturn:本次查询出12条书籍记录
+[INFO] 2018-04-20 14:10:26 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.getAllBook执行花费了23毫秒
+[INFO] 2018-04-20 14:10:26 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 14:10:26 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 14:10:27 [com.qingsong.book.controller.MyController] 
+删除10
+[INFO] 2018-04-20 14:10:27 [com.qingsong.book.controller.MyController] 
+开始调用all
+[INFO] 2018-04-20 14:10:27 [com.qingsong.book.aop.SelectAdvice] 
+Before:检查系统完成!
+[INFO] 2018-04-20 14:10:27 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强进入
+[INFO] 2018-04-20 14:10:27 [com.qingsong.book.service.FindServiceImpl] 
+业务方法执行完毕
+[INFO] 2018-04-20 14:10:27 [com.qingsong.book.aop.SelectAdvice] 
+AfterReturn:本次查询出11条书籍记录
+[INFO] 2018-04-20 14:10:27 [com.qingsong.book.aop.SelectAdvice] 
+业务方法:class com.qingsong.book.service.FindServiceImpl.getAllBook执行花费了23毫秒
+[INFO] 2018-04-20 14:10:27 [com.qingsong.book.aop.SelectAdvice] 
+Around:统计时间增强结束
+[INFO] 2018-04-20 14:10:27 [com.qingsong.book.aop.SelectAdvice] 
+After:清理工作完成!
+[INFO] 2018-04-20 14:10:28 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:10:33 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:10:38 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:10:44 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:10:49 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:10:54 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:10:59 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:11:04 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:11:09 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:11:14 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:11:20 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:11:25 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:11:30 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:11:35 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:11:40 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:11:45 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:11:50 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:11:56 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:12:01 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:12:06 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:12:11 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:12:16 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:12:21 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:12:26 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:12:32 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:12:37 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:12:42 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
+[INFO] 2018-04-20 14:12:47 [com.qingsong.book.thread.MemThread] 
+记录一次内存信息
