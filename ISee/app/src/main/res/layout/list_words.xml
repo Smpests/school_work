@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="30sp"
+        android:id="@+id/word"
+        android:layout_weight="1"
+        android:clickable="false"
+        android:focusable="false"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="30sp"
+        android:id="@+id/wordTranslate"
+        android:layout_weight="1"
+        android:textAlignment="viewStart"
+        android:clickable="false"
+        android:focusable="false"/>
+</LinearLayout>
